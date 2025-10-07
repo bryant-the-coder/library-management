@@ -1,0 +1,16 @@
+books:
+- author: George Orwell
+  available: false
+  name: '1984'
+  pages: 328
+  publish_date: 1949
+- author: F. Scott Fitzgerald
+  available: true
+  name: The Great Gatsby
+  pages: 180
+  publish_date: 1925
+- author: Harper Lee
+  available: true
+  name: To Kill a Mockingbird
+  pages: 281
+  publish_date: 1960

@@ -1,0 +1,9 @@
+[project]
+name = "library-system"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "black>=25.9.0",
+    "pyyaml==6.0.3",
+]
